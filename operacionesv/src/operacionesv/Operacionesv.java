@@ -23,6 +23,16 @@ public class Operacionesv {
         Scanner valor2 = new Scanner(System.in);
         int numero2=valor2.nextInt();
         
+        int suma= numero1 + numero2;
+        int resta= (numero1 - numero2);
+        int multiplicacion= numero1 * numero2;
+        double num1double = num1;
+        double num2double = num2;
+        double divicion= num1double / num2double;
+        
+        
+        
+        
         
     }
     
