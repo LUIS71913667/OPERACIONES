@@ -26,11 +26,14 @@ public class Operacionesv {
         int suma= numero1 + numero2;
         int resta= (numero1 - numero2);
         int multiplicacion= numero1 * numero2;
-        double num1double = num1;
-        double num2double = num2;
+        double num1double = numero1;
+        double num2double = numero2;
         double divicion= num1double / num2double;
         
-        
+        System.out.println("SUMA: " + suma);
+        System.out.println("RESTA: " + resta);
+        System.out.println("MULTIPLICACION: " + multiplicacion);
+        System.out.println("DIVICION: " + divicion);
         
         
         
